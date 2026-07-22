@@ -1,29 +1,40 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好，欢迎来到我的个人博客！
 
-## 🛠️ 关于本站
-
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+我是 **luck007**，一名计算机专业的初学者。
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+## 个人简介与兴趣
 
+作为一名刚刚步入计算机领域的学习者，虽然目前的专业技术水平还在慢慢积累与起步阶段，但我对探索计算机相关的各种新事物保持着浓厚的兴趣与热情。
+
+在日常生活中，我是一个非常喜欢音乐的人。边听音乐边敲代码、研究新技术，是我感到最放松和充实的时刻。
+
+此外，我的家产（最喜欢的爱豆）是 **王橹杰** 和 **穆祉丞**！他们都是非常优秀、努力且闪闪发光的小孩。真心希望他们未来的发展越来越好，也希望他们以后能有更多机会可以多多见面、同台互动！
+
+---
+
+## 建立博客的初衷
+
+搭建这个博客，主要是希望给自己提供一个自由、纯粹的小天地：
+
+1. **生活朋友圈**  
+   在这里记录日常生活中遇到的各种有意思的事情、好玩的瞬间以及随想感悟，当作属于自己的公开朋友圈。
+
+2. **技术学习笔记**  
+   作为一个计算机专业的初学者，我会在学习过程中把踩过的坑、解决的问题以及总结积累的经验梳理成笔记发布在这里，见证自己的成长。
+
+---
+
+## 关于本站
+
+本站使用 **Astro** 框架搭建，主题基于 **Firefly** 进行自定义配置。博客代码与内容采用双仓库分离架构管理。
+
+- 个人 GitHub 主页：[wmz0402](https://github.com/wmz0402)
+- 博客代码仓库：[wmz0402/Firefly](https://github.com/wmz0402/Firefly)
+
+---
+
+*感谢你的来访，希望在这里能找到对你有启发或带来好心情的内容！*
