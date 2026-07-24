@@ -2,6 +2,7 @@
 title: "Hello World"
 published: 2026-07-24
 description: "大家好啊，这是我在这个博客里所写的第一篇文章，总感觉无从下笔，但又觉得这样下去也不行，总要有一个开头来破冰，所以就写下了这篇文章..."
+image: "https://img.luck007.online/img/2026/07/24/fe5ba515e7ae6b8c6a74da70524dcf71.webp"
 tags: ["随笔", "Hello World", "日常"]
 category: "随笔"
 draft: false
